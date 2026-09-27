@@ -1,5 +1,5 @@
 import React from 'react';
-import { faqs } from './FAQSection';
+import { faqs } from '../data/faqs';
 
 export default function SEOHead() {
   const jsonLdService = {
